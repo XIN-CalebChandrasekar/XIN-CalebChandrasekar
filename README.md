@@ -9,10 +9,11 @@
  
 ## 🚀 About Me
  
-- 🔭 I’m currently working on **BuidL**, a blockchain-based crowdfunding platform for educational resources
+- 🔭 I’m currently working on **Fine tunning [Ollama](https://ollama.com/) models for business operations**, a hub for Machine Learning Engineers and test models locally!
 - 🌱 Learning more about **Solidity, Next.js, TypeScript**, and **AI/ML theory**
 - 👨‍💻 Actively contributing to open source and participating in global hackathons
 - 🎯 2025 Goals:
+  - Successfully complete my internship at [**Xebia**]([https://](https://xebia.com/)) and crack a PPO as well
   - Win a top-tier hackathon hosted by Quine now known as [**Quira**](https://quira.sh/)🏆
   - Host **50+ Hackathons and Events** 📺
   - Grow my developer community as **Coordinator** at **Geek Room Chapter (@K. R. Mangalam University)** 🚀
